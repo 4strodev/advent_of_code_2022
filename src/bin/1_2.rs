@@ -1,5 +1,5 @@
 fn main() {
-    let input = std::fs::read_to_string("src/assets/1_1_input.txt").unwrap();
+    let input = std::fs::read_to_string("src/assets/1_input.txt").unwrap();
 
     let result = input
         .trim()
